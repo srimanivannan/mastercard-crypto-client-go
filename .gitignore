@@ -1,1 +1,5 @@
 .DS_Store
+# It's hidden directory, so use period and then folder name
+.idea
+# It's normal directory, so use /<<directory>>/
+/bin/
